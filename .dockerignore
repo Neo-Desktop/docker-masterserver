@@ -1,0 +1,5 @@
+example/
+*.7z
+LICENSE
+README.md
+build.sh
